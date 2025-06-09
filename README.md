@@ -1,5 +1,8 @@
 # Hi there 👋, I’m Joel Carlson
 
+**🔭 I’m currently working on:**  
+-  Evaluating the Segment Anything Model (SAM 2.1) vs. U-Net on the DeepGlobe Satellite Image Understanding Challenge
+
 <!--
 **joel-carlson/joel-carlson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
