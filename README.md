@@ -22,6 +22,7 @@
  [RMBL_SnowView](https://github.com/CUBW/RMBL_SnowView) | Image segmentation of drone images of snowpack for RMBL |
 
 ## 📈 GitHub Stats
+<small> Recent usernanme change from `jTxCode` to `joel-carlson`. Stats did not transfer </small>
 
 ![YourName’s GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
