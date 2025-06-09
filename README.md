@@ -1,7 +1,7 @@
 # Hi there 👋, I’m Joel Carlson
 
 **🔭 I’m currently working on:**  
--  Evaluating the Segment Anything Model (SAM 2.1) vs. U-Net on the DeepGlobe Satellite Image Understanding Challenge [DeepGlobe-2-Transformers](https://github.com/joel-carlson/DeepGlobe-2-Transformers)
+- Evaluating the Segment Anything Model (SAM 2.1) vs. U-Net on the DeepGlobe Satellite Image Understanding Challenge [DeepGlobe-2-Transformers](https://github.com/joel-carlson/DeepGlobe-2-Transformers)
 
 **🌱 I’m learning:**  
 -  Advanced vision transformers (Swin, SegFormer, etc.)  
