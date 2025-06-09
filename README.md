@@ -1,5 +1,5 @@
 # Hi there 👋, I’m Joel Carlson
-** I'm a masters student at CU Boulder study all there is to know about AI and ML.
+**I'm a masters student at CU Boulder study all there is to know about AI and ML.
 
 
 **🔭 I’m currently working on:**  
