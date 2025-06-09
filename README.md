@@ -1,4 +1,6 @@
 # Hi there 👋, I’m Joel Carlson
+** I'm a masters student at CU Boulder study all there is to know about AI and ML.
+
 
 **🔭 I’m currently working on:**  
 - Evaluating the Segment Anything Model (SAM 2.1) vs. U-Net on the DeepGlobe Satellite Image Understanding Challenge [DeepGlobe-2-Transformers](https://github.com/joel-carlson/DeepGlobe-2-Transformers)
