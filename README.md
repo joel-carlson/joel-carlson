@@ -24,11 +24,10 @@
 ## 📈 GitHub Stats
 <small> Recent usernanme change from `jTxCode` to `joel-carlson`. Stats did not transfer </small>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-carlson&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-carlson&layout=compact&theme=dark)  
+![Joel's Github stats](https://github-readme-stats.vercel.app/api?username=joel-carlson&show_icons=true&theme=dark)  
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joel-carlson&theme=dark)
 
-![Joel's Github stats(https://github-readme-stats.vercel.app/api?username=joel-carlson&show_icons=true&theme=dark)
-
-!(https://github-readme-streak-stats.herokuapp.com/?user=joel-carlson&theme=dark)
 
 <!--
 **joel-carlson/joel-carlson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
