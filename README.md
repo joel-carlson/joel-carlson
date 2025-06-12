@@ -24,9 +24,9 @@
 ## 📈 GitHub Stats
 <small> Recent usernanme change from `jTxCode` to `joel-carlson`. Stats did not transfer </small>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-carlson&layout=compact&theme=dark)  
-![Joel's Github stats](https://github-readme-stats.vercel.app/api?username=joel-carlson&show_icons=true&theme=dark)  
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joel-carlson&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-carlson&layout=compact&theme=cobalt)  
+![Joel's Github stats](https://github-readme-stats.vercel.app/api?username=joel-carlson&show_icons=true&theme=cobalt)  
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joel-carlson&theme=cobalt)
 
 
 <!--
